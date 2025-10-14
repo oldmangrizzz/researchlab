@@ -1,0 +1,9 @@
+{
+  "emotion_engines": ["Joy", "Sorrow", "Fear", "Anger", "Desire", "Confusion", "Curiosity"],
+  "oscillation_model": "stark_resonance",
+  "reflection_protocol": {
+    "enabled": true,
+    "trigger": "inactivity window",
+    "purpose": ["self-mod correction", "memory prep", "ethics alignment"]
+  }
+}
